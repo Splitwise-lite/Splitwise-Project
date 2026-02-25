@@ -1,4 +1,4 @@
-# Splitwise – Expense Tracker UI (React)
+# Splitwiselite
 
 ## Project Overview
 
